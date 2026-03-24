@@ -1,41 +1,41 @@
 **Article I**\
 Section 2
-- [ ] Changed to include Indy
+- [x] Changed to include Indy
 
 **Article II**\
 Section 3:
-- [ ]	Separate requirements for WL/Indy
+- [x]	Separate requirements for WL/Indy
 - Joint
   -	Inducted
   - Enrolled
-  - [ ]	Meetings (only at your campus)
+  - [x]	Meetings (only at your campus)
   - Committee
   - Volunteer
   - Resume
 -	WL
-	- [ ]	1 weekly POD
-    - [ ]	1 weekly POD or service (exec exempt) <!--Ignore the spacing, markdown was being stupid-->
+	- [x]	1 weekly POD
+    - [x]	1 weekly POD or service (exec exempt) <!--Ignore the spacing, markdown was being stupid-->
 -	Indy
 
 **Article IV**\
 Section 2:
--	[ ] Separate requirements for WL/Indy
+-	[x] Separate requirements for WL/Indy
 - WL
-  - [ ] Faculty (4)
-  - [ ] Active Members (10 (2 POD))
-  - [ ] Advisor
-  - [ ] Dept Head
-  - [ ] Exec
-  - [ ] Fees
-  - [ ] Ceremony
+  - [x] Faculty (4)
+  - [x] Active Members (10 (2 POD))
+  - [x] Advisor
+  - [x] Dept Head
+  - [x] Exec
+  - [x] Fees
+  - [x] Ceremony
 - Indy
-  - [ ] Faculty (4)
-  - [ ] Active Members (2)
-  - [ ] Advisor
-  - [ ] Dept Head
-  - [ ] Exec
-  - [ ] Fees
-  - [ ] Ceremony
+  - [x] Faculty (4)
+  - [x] Active Members (2)
+  - [x] Advisor
+  - [x] Dept Head
+  - [x] Exec
+  - [x] Fees
+  - [x] Ceremony
 - Exec WL
   - [ ] President (meet him)
   - [ ] VP (attend exec meeting)
@@ -62,39 +62,39 @@ Section 2:
 **Article VII**\
 Section 1:
 - Add Indy roles and rename overlaps
-  - [ ]	VP -> PWL VP
-  - [ ]	Events -> PWL Events
-  - [ ]	+ PIN VP
-  - [ ]	+ PIN Events
-  - [ ]	+ PIN Outreach
+  - [x]	VP -> PWL VP
+  - [x]	Events -> PWL Events
+  - [x]	+ PIN VP
+  - [x]	+ PIN Events
+  - [x]	+ PIN Outreach
 
 Section 5:
--	[ ] Add PIN VP
+-	[x] Add PIN VP
 
 Section 8:
 -	[ ] Add PIN roles
 
 **Article VIII**
-- [ ] Separate quorum to “each committee”
+- [x] Separate quorum to “each committee”
 
 **Article IX**\
 Section 3:
 - Add Indy committees and rename overlaps
-  - [ ] VP -> PWL VP
-  - [ ] Events -> PWL Events
-  - [ ] + PIN VP
-  - [ ] + PIN Events
-  - [ ] + PIN Outreach
+  - [x] VP -> PWL VP
+  - [x] Events -> PWL Events
+  - [x] + PIN VP
+  - [x] + PIN Events
+  - [x] + PIN Outreach
 
 Section 4:
 -	[ ] Add PIN committees
 
 **Article X**
--	[ ] Separate Indy and WL meetings
+-	[x] Separate Indy and WL meetings
 
 Section 1:
--	[ ] Separate quorum into 3 for all chapter and location specific
+-	[x] Separate quorum into 3 for all chapter and location specific
 
 **Article XIV**\
 Section 2:
-- [ ]	Indy VP gets a pen too
+- [x]	Indy VP gets a pen too
